@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in JAVA**
+- 🌱 I’m currently learning **Spring Boot**
+  
+- 🌱 I Completed **DSA in JAVA** from Coding Blocks
 
 - 💬 Ask me about **JAVA, C++, C, Frontend Web Dev**
 
